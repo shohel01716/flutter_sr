@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Social Media',
       theme: ThemeData(
         primarySwatch: Colors.amber,
-        accentColor: Colors.purpleAccent,
+        //accentColor: Colors.purpleAccent,
       ),
       home: Home(),
     );
